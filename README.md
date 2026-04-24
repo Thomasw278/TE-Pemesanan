@@ -4,8 +4,10 @@ Repository Tugas TE - UKDW
 ![Github Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
 ![Java Version](https://img.shields.io/badge/java-22-orange)
 ![JUnit 5](https://img.shields.io/badge/testing-JUnit5-brightgreen)
-![Mockito](https://shields.io)
+![Mockito Version](https://img.shields.io/badge/Mockito-5.x-blue?style=flat-square&logo=mockito)
 
+
+### Nama Anggota
 ```bash
 71230975 - Thomas Aquinas Ryan Wisnu Adi
 
