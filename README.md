@@ -16,7 +16,7 @@ Repository Tugas TE - UKDW
 ### 📁 Struktur Folder
 ```bash
 
-bmi
+Pemesanan
 ├── src
 │   ├── main/java/pemesanan/app/            # Source Code Utama (Logic Aplikasi)
 │   │   ├── App.java                        # Entry point aplikasi
